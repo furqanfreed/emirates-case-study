@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/emirates-case-study/static/css/main.d76b274f.chunk.css",
+    "main.js": "/emirates-case-study/static/js/main.c6ef3a23.chunk.js",
+    "main.js.map": "/emirates-case-study/static/js/main.c6ef3a23.chunk.js.map",
+    "runtime-main.js": "/emirates-case-study/static/js/runtime-main.6e3ea0ae.js",
+    "runtime-main.js.map": "/emirates-case-study/static/js/runtime-main.6e3ea0ae.js.map",
+    "static/css/2.0978f8b3.chunk.css": "/emirates-case-study/static/css/2.0978f8b3.chunk.css",
+    "static/js/2.e82c81b8.chunk.js": "/emirates-case-study/static/js/2.e82c81b8.chunk.js",
+    "static/js/2.e82c81b8.chunk.js.map": "/emirates-case-study/static/js/2.e82c81b8.chunk.js.map",
+    "static/js/3.66300dda.chunk.js": "/emirates-case-study/static/js/3.66300dda.chunk.js",
+    "static/js/3.66300dda.chunk.js.map": "/emirates-case-study/static/js/3.66300dda.chunk.js.map",
+    "index.html": "/emirates-case-study/index.html",
+    "static/css/2.0978f8b3.chunk.css.map": "/emirates-case-study/static/css/2.0978f8b3.chunk.css.map",
+    "static/css/main.d76b274f.chunk.css.map": "/emirates-case-study/static/css/main.d76b274f.chunk.css.map",
+    "static/js/2.e82c81b8.chunk.js.LICENSE.txt": "/emirates-case-study/static/js/2.e82c81b8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6e3ea0ae.js",
+    "static/css/2.0978f8b3.chunk.css",
+    "static/js/2.e82c81b8.chunk.js",
+    "static/css/main.d76b274f.chunk.css",
+    "static/js/main.c6ef3a23.chunk.js"
+  ]
+}
