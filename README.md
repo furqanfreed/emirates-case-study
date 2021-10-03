@@ -1,6 +1,6 @@
 <h1 align="center">Emirates Case Study</h1>
 
- Please access live site [Create React App](https://github.com/facebook/create-react-app).
+ Please access live site [Emirates Case Study](https://furqanfreed.github.io/emirates-case-study/).
 
 
 ## `Dev Setup & Scirpts`
@@ -22,10 +22,6 @@ The data is used from a Mocked API Response as a JSON object (random data) which
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
-
 
 
 ![](./public/og.png)
