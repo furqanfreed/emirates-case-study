@@ -1,6 +1,5 @@
 {
   "name": "emirates-case-study",
-  "homepage": "https://furqanfreed.github.io/emirates-case-study",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -37,5 +36,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^3.2.3"
   }
 }
