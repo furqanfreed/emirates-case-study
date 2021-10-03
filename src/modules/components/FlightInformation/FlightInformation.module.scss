@@ -1,0 +1,60 @@
+.topLabel {
+    font-size: 0.8rem;
+    font-weight: 300;
+    line-height: 1.25;
+    margin-bottom: 6px;
+}
+.flightTime {
+    font-size: 5rem;
+    padding-bottom: 0;
+    font-weight: 600;
+}
+
+.flightDate {
+    display: flex;
+    font-size: 0.8rem; 
+    font-weight: 300;
+    align-items: center;
+    margin-bottom: 4px;
+    
+    img {
+        margin-right: 3px;
+        width: 15px;
+    }
+
+    &.flightDDate {
+        justify-content: flex-start;
+    }
+    &.flightADate {
+        justify-content: flex-end;
+    }
+}
+
+.airport {
+    font-size: 1.4rem;
+    padding-bottom: 1rem;
+}
+
+
+/*
+* Media query 
+*/
+
+@media only screen and (max-width: 600px) {
+    .flightTime {
+        font-size: 2rem;
+    }
+
+    .flightDate {
+        &.flightDDate, &.flightADate {
+            justify-content: center;
+            margin: 4px 0px;
+        }
+    }
+}
+
+@media only screen and (min-width: 768px) {
+    .flightTime {
+        font-size: 3rem;
+    }
+}
